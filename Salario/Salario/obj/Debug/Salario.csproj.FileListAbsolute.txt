@@ -1,0 +1,8 @@
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Salario\Salario\bin\Debug\Salario.exe.config
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Salario\Salario\bin\Debug\Salario.exe
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Salario\Salario\bin\Debug\Salario.pdb
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Salario\Salario\obj\Debug\Salario.csproj.AssemblyReference.cache
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Salario\Salario\obj\Debug\Salario.csproj.SuggestedBindingRedirects.cache
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Salario\Salario\obj\Debug\Salario.csproj.CoreCompileInputs.cache
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Salario\Salario\obj\Debug\Salario.exe
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Salario\Salario\obj\Debug\Salario.pdb

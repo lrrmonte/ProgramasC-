@@ -1,0 +1,8 @@
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Estoque\Estoque\bin\Debug\Estoque.exe.config
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Estoque\Estoque\bin\Debug\Estoque.exe
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Estoque\Estoque\bin\Debug\Estoque.pdb
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Estoque\Estoque\obj\Debug\Estoque.csproj.AssemblyReference.cache
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Estoque\Estoque\obj\Debug\Estoque.csproj.SuggestedBindingRedirects.cache
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Estoque\Estoque\obj\Debug\Estoque.csproj.CoreCompileInputs.cache
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Estoque\Estoque\obj\Debug\Estoque.exe
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Estoque\Estoque\obj\Debug\Estoque.pdb

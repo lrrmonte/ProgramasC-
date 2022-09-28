@@ -1,0 +1,8 @@
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Funcionario_Vetor\Funcionario_Vetor\bin\Debug\Funcionario_Vetor.exe.config
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Funcionario_Vetor\Funcionario_Vetor\bin\Debug\Funcionario_Vetor.exe
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Funcionario_Vetor\Funcionario_Vetor\bin\Debug\Funcionario_Vetor.pdb
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Funcionario_Vetor\Funcionario_Vetor\obj\Debug\Funcionario_Vetor.csproj.AssemblyReference.cache
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Funcionario_Vetor\Funcionario_Vetor\obj\Debug\Funcionario_Vetor.csproj.SuggestedBindingRedirects.cache
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Funcionario_Vetor\Funcionario_Vetor\obj\Debug\Funcionario_Vetor.csproj.CoreCompileInputs.cache
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Funcionario_Vetor\Funcionario_Vetor\obj\Debug\Funcionario_Vetor.exe
+C:\Users\linco\OneDrive\Documentos\ProgramasC#\Funcionario_Vetor\Funcionario_Vetor\obj\Debug\Funcionario_Vetor.pdb
